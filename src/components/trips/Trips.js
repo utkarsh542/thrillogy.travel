@@ -4,10 +4,10 @@ import "./trips.css";
 const Trips = () => {
  const trips = [
     { id: 1, image: "./assets/wild.jfif", place: "Wild Exploration" },
-    { id: 2, image: "./assets/wild.jfif", place: "Trekking Himalaya" },
-    { id: 3, image: "./assets/wild.jfif", place: "Jungle Camping" },
-    { id: 3, image: "./assets/wild.jfif", place: "River Rafting" },
-    { id: 3, image: "./assets/wild.jfif", place: "Indies Island" },
+    { id: 2, image: "./assets/trekking.jfif", place: "Trekking Himalaya" },
+    { id: 3, image: "./assets/jungle.jfif", place: "Jungle Camping" },
+    { id: 3, image: "./assets/rafting.jfif", place: "River Rafting" },
+    { id: 3, image: "./assets/ishland.jfif", place: "Indies Island" },
   ];
   return <div className="trips">
     <div className="tripsDiscription">
