@@ -1,0 +1,37 @@
+.trips{
+margin-top: 3vh;
+}
+.tripsDiscription{
+  text-align: center;
+}
+.tripsHrTag{
+    width: 10rem;
+    margin: auto;
+}
+
+.wildCard{
+ margin: 2px 10px;
+  
+    display: flex;
+    flex-wrap: wrap;
+   
+
+}
+.wildImage img{
+    border-radius: 2rem;
+    width:15rem;
+    height: 14rem;
+    object-fit: cover;
+    margin-left: 2rem;
+    margin-top: 1rem;
+   
+}
+.wildcardDes{
+position: relative;
+}
+.wilddescription{
+    position: absolute;
+    top: 10rem;
+    left: 2rem;
+    color: white;
+}
